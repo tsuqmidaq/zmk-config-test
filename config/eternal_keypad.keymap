@@ -29,4 +29,8 @@
                     &kp TAB     &kp ASTRK &kp PLUS &kp N4    &kp N5     &kp N6     &kp BSPC
         &kp INS     &kp K_COPY  &kp MINUS &kp UP   &kp N1    &kp N2     &kp N3     &kp ENTER
         &kp LSHIFT  &kp K_PASTE &kp LEFT  &kp DOWN &kp RIGHT &kp N0     &kp DOT    &kp EQUAL
-        &kp LCTRL   &kp K_UNDO  &kp LWIN  &kp LALT           &kp SPACE            &kp COLON
+        &kp LCTRL   &kp K_UNDO  &kp LWIN  &kp LALT           &kp SPACE             &kp COLON
+      >;
+    };
+  };
+};
